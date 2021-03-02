@@ -5,9 +5,9 @@ Version:	0.0.4
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
-Source0:	http://telepathy.freedesktop.org/releases/telepathy-yell/%{name}-%{version}.tar.gz
+Source0:	https://telepathy.freedesktop.org/releases/telepathy-yell/%{name}-%{version}.tar.gz
 # Source0-md5:	38cb8f6ae0a45a5a87b51ab0e77d5fcf
-URL:		http://telepathy.freedesktop.org/wiki/
+URL:		https://telepathy.freedesktop.org/
 BuildRequires:	autoconf >= 2.59
 BuildRequires:	automake >= 1:1.11
 BuildRequires:	dbus-devel >= 0.95
